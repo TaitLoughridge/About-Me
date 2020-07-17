@@ -1,0 +1,59 @@
+html {
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    background: #333538a2;
+  }
+  
+  h1 {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 84px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 20px;
+    color: #2a3958;
+  }
+
+  .profile {
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-bottom: 20px;
+  }
+  
+  .logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 5%;
+    float: left;
+    padding-left: 230px;
+
+  }
+
+  body {
+    width: 800px;
+    height: 800px;
+    margin: 0 auto;
+}
+
+  p {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 24px;    
+    line-height: 2;
+    letter-spacing: 1px;
+    padding: 10px 10px;
+    color: #cacaca;
+    text-align: center;
+  }
+
+  footer {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 16px;
+    text-align: center;   
+    line-height: 2;
+    letter-spacing: 1px;
+    color: #cacaca;
+
+  }
